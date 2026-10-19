@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.gitignore
+.env.local
+.env*.local
+*.md
+terminals
+.cursor
+assets
+pnpm-lock.yaml
+Dockerfile
+docker-compose*.yml
